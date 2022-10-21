@@ -1,13 +1,16 @@
 .lista-de-gatos {color:rgb(38, 107, 255)}
 
-h1 {color:cornflowerblue}
+h1 {
+ color:cornflowerblue
+}
 h1 { font-size: 150px;
   font-family: 'Pacifico', cursive; 
 }
 h2 { font-size: 45px;
   font-family: 'Orbitron', sans-serif;
 }
-h3 {font-size: 45px; font-family: 'Orbitron', sans-serif;}
+h3 {font-size: 45px; font-family: 'Orbitron', sans-serif;
+}
 
 p,
 ul,
