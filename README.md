@@ -1,4 +1,6 @@
-.lista-de-gatos {color:rgb(38, 107, 255)}
+.lista-de-gatos {
+color:rgb(38, 107, 255)
+}
 
 h1 {
  color:cornflowerblue
